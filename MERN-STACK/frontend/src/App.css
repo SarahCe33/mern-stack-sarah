@@ -1,0 +1,10 @@
+body {
+    background: #944d8a;  /* fallback for old browsers */
+background: linear-gradient(to right,  #b0efff, #4e9ffc); 
+}
+.material-icons {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
